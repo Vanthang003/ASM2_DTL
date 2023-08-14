@@ -38,5 +38,6 @@ class CategoriesController extends Controller
         //Phương thức Get
     public function deleteCategory($id){
 
+        
     }
 }
