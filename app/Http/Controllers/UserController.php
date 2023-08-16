@@ -8,6 +8,6 @@ class UserController extends Controller
 {
     //
     public function index(){
-        return 'day la index cua user controller';
+        return ' day la index cua user controller';
     }
 }
